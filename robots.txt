@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://angelicojohn.github.io/haide-and-roger-fitness-site/sitemap.xml
